@@ -1,0 +1,17 @@
+.titulo{
+    background-color:burlywood;
+    height: 100px;
+    padding: 9px;
+}
+body{
+    font-family: 'B612 Mono', monospace;
+}
+#rodape{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+}
+canvas{
+    border: solid burlywood 25px 25px;
+}
